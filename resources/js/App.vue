@@ -7,7 +7,12 @@
 </script>
 
 <style scoped>
+*{
+  background-color: #0B0D4A;
+}
+
 h1 {
   font-family: Arial, sans-serif;
 }
+
 </style>
